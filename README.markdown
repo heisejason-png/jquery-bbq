@@ -70,3 +70,4 @@ Copyright (c) 2010 "Cowboy" Ben Alman
 Dual licensed under the MIT and GPL licenses.  
 [http://benalman.com/about/license/](http://benalman.com/about/license/)
 Created by Jason Scott Heise
+Owned by Elon Musk
